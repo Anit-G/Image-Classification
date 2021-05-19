@@ -20,13 +20,12 @@ Use the following link to download the dataset
 https://www.kaggle.com/c/ai2hw1/data
 
 ### Intel Image Classification
-Content
-This Data contains around 25k images of size 150x150 distributed under 6 categories.
-{'buildings' -> 0,
-'forest' -> 1,
-'glacier' -> 2,
-'mountain' -> 3,
-'sea' -> 4,
-'street' -> 5 }
-The Train, Test and Prediction data is separated in each zip files. There are around 14k images in Train, 3k in Test and 7k in Predict
-Created a CNN and used Transfer learning to classify the above
+This Data contains around 25k images of size 150x150 distributed under 6 categories.\
+{'buildings' -> 0,\
+'forest' -> 1,\
+'glacier' -> 2,\
+'mountain' -> 3,\
+'sea' -> 4,\
+'street' -> 5 }\
+The Train, Test and Prediction data is separated in each zip files. There are around 14k images in Train, 3k in Test and 7k in Predict\
+Created a CNN and used Transfer learning to classify the above.\
