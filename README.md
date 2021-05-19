@@ -8,9 +8,9 @@ In order to use this project effectively you need to download the dataset from "
 
 Also appropriately change the following variables
 
-base_dir
-train_dir
-img1(uses a path that refers to the test images)
+base_dir\
+train_dir\
+img1(uses a path that refers to the test images)\
 img2(uses a path that refers to the test images)
 
 
