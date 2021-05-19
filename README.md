@@ -12,3 +12,9 @@ base_dir
 train_dir
 img1(uses a path that refers to the test images)
 img2(uses a path that refers to the test images)
+
+
+### KMNIST-Digit-0-1
+Use KMNIST Dataset of handwritten digits 0 and 1. Classify using a unregularized Overfitted Fully Connected Network then proceed to regularizer it for improved results 
+Use the following link to download the dataset
+https://www.kaggle.com/c/ai2hw1/data
