@@ -1,6 +1,6 @@
 # Image-Classification
 
-## Cat vs Dog Classification
+### Cat vs Dog Classification
 
 The aim of this is to create a Deep Learing model and train it on images of cats and dogs. Furthur use Transfer learning model and train it similarly
 
