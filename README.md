@@ -29,3 +29,9 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 'street' -> 5 }\
 The Train, Test and Prediction data is separated in each zip files. There are around 14k images in Train, 3k in Test and 7k in Predict\
 Created a CNN and used Transfer learning to classify the above.
+
+### COVID Detection using Lung Scans
+
+Download the dataset from the following: https://www.kaggle.com/c/covid-19-detection-using-transfer-learning
+
+You are given a set of chest X-ray images which are divided into 3 classes - Covid, Normal and Pneumonia. Classify the images using transfer learning and detect those that belong to Covid class.
